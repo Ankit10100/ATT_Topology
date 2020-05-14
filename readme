@@ -1,0 +1,5 @@
+This is a program to generate ATT topology which can be used in NDNSim.
+Edge list of ATT topology is extracted from the topology represented in Posiedon paper.
+You can configure the parameters of edges in program and run the program using:
+python3 main.py
+to get topology.
